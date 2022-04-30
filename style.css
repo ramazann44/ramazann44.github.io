@@ -1,0 +1,61 @@
+        .mainDiv{
+            min-height: 100%;
+        }
+
+        .topBanner{
+            background-color: #d55;
+            text-align: center;
+            padding: 5px;
+            margin-bottom: 10px;
+            position:sticky;
+            top:0;
+        }
+
+        .topBanner a{
+
+            text-decoration:none;
+            color:white;
+            font-size: 20px;
+        
+        }
+
+        .midBanner{
+            padding: 20px;
+            text-align: center;
+        }
+
+        .midBanner img{
+            width: 15%;
+            height: 15%;
+            border-radius: 15%;
+            margin-bottom: 10px;
+        }
+
+        .midBanner p{
+            width: 75%;
+            margin-left: 12.5%;
+            margin-right: 12.5%;
+        }
+
+        .bottomBanner{
+            background-color: #d55;
+            text-align: center;
+            padding: 5px;
+            position:sticky;
+            bottom:0;
+            margin-top: 10px;
+        }
+
+        .bottomBanner img{
+            width: 36px;
+            height: 36px;
+            border-radius: 10px;
+        }
+
+        .bottomBanner a{
+
+            text-decoration:none;
+            color:white;
+            font-size: 20px;
+        
+        }
